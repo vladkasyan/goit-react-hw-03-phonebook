@@ -1,8 +1,15 @@
 {
+<<<<<<< HEAD
   "name": "goit-react-hw-03-phonebook",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://vladkasyan.github.io/goit-react-hw-03-phonebook/",
+=======
+  "name": "react-homework-template",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://goitacademy.github.io/react-homework-template/",
+>>>>>>> f5398c6cd009a58bb743e1db70d2231cbf4c7ee3
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
